@@ -1,0 +1,36 @@
+/* CSS for Motivational Meme page */
+
+html {
+
+}
+
+body{
+
+}
+
+div {
+    background-color: black;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    padding: 20px;
+}
+
+h1 {
+    margin: opx;
+    color:antiquewhite;
+}
+
+.font_Libre_Bakerville {
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    margin: 0px;
+    color: aliceblue;
+}
+
+img {
+    border: 5px solid white;
+    margin: 10px;
+}
